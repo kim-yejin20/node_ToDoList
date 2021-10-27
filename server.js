@@ -41,7 +41,7 @@ app.get('/write', function(req,res){
 
 
 
-// POST 요청 / '경로' : 어떤 경로로 post 요청을 보낼 것인가. 
+// POST 요청 / '경로' : 어떤 경로로 post 요청을 보낼 것인지 설정
 // write.html에서 form action에 써준 '/add를' 써줌 
 
 // app.post('경로', function(요청, 응답){
